@@ -1,0 +1,7 @@
+/* font-family: 'Cinzel Decorative', cursive;
+font-family: 'Poppins', sans-serif; */
+
+
+.hover-text-effect-navbar{
+    @apply ease-in duration-300 hover:text-[rgb(206,179,105)] 
+}

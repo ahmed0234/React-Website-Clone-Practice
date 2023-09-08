@@ -1,0 +1,13 @@
+.color_2{
+    color: var(--primarycolor);
+}
+
+
+.section_buy{
+    border-bottom: 2px solid var(--primarycolor);
+}
+
+.textnormal{
+    font-style: normal;
+}
+

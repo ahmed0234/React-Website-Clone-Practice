@@ -1,0 +1,21 @@
+.section_1_subtext{
+    font-size: 2rem;
+    line-height: 1.2;
+    font-family: 'Cinzel', serif
+    
+}
+
+
+.section_1_readmore_text{
+    display: inline-block;
+    padding-bottom: 5px;
+    font-weight: 500;
+    border-bottom: 2px solid rgb(254,205,54);
+    transition: 0.3s all;
+}
+.section_1_readmore_text:hover{
+
+    color: rgb(246, 194, 38);
+
+    
+}

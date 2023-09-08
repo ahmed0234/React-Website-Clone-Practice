@@ -1,0 +1,9 @@
+
+.cinzel{
+    font-family: var(--cinzel);
+    font-size: 1.5rem;
+}
+
+.responsive_repertoite{
+    @apply w-[100%] h-[auto] 
+}

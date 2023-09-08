@@ -1,0 +1,15 @@
+.Header{
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)),url('https://w.wallha.com/ws/14/5u74igML.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;    
+
+   
+}
+
+.header-bottom-text{
+    font-family: 'Cinzel', serif;
+    font-weight: 400;
+    font-size: 5rem;
+    
+}

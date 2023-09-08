@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Poppins:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+    --cinzel: 'Cinzel', serif;
+    --montesarrat: 'Montserrat', sans-serif;
+    --cinzeldecorative: 'Cinzel Decorative', cursive;
+    --primarycolor: #ffd761;
+
+}
+
+/* font-family: 'Cinzel Decorative', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Cinzel', serif;
+font-family: 'Montserrat', sans-serif; */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+body{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0,0,0);
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    list-style: none;
+}
