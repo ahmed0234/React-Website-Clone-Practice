@@ -35,7 +35,7 @@ function Contact() {
       variants={reveal_variant}
         initial='hidden'
         animate={animation_1}
-    className='contact cantainer barder'>
+    className='contact cantainer barder' id='Contact'>
 
             <h1 className='text-center uppercase text-[#ffd761] text-xl'>stay updated!</h1>
             <h2 className='text-center uppercase cinzel text-3xl mt-6 mb-6'>SUBSCRIBE TO MY SHOW<br /> UPDATES</h2>

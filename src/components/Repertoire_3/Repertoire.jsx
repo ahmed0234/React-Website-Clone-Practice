@@ -37,7 +37,7 @@ function Repertoire() {
     variants={reveal_variant}
     initial='hidden'
     animate={animation_1}
-     className='Repertoire_section cantainer '>
+     className='Repertoire_section cantainer ' id='Repertoire'>
 
         <div className='text-center'>
             <h2 className='text-[#ffd761] font-bold text-xl tracking-wide mb-6'>Repertoire</h2>

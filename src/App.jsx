@@ -8,6 +8,7 @@ import Section_4 from './components/Section_4/Section_4'
 import Section_5 from './components/Section_5/Section_5'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
+import Ending from './components/Ending/Ending'
 
 
 
@@ -42,6 +43,7 @@ function App() {
             <Section_5 />
             <Contact />
             <Footer />
+            <Ending />
           </>
         )}
        

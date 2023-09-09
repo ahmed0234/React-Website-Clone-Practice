@@ -40,7 +40,7 @@ function Section() {
 
 
   return (
-    <div className="Section_1 cantainer">
+    <div className="Section_1 cantainer" id="Biography">
 
       <motion.h1
       variants={reveal_variant}

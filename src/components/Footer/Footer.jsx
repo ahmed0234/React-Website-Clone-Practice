@@ -39,7 +39,7 @@ function Footer() {
         animate={animation_1}
         className="footer_wrapper flex flex-col items-center  gap-10 md:flex-row md:justify-between ">
 
-            <h1 className='cinzel text-5xl font-semibold'>William <br /> Gilbert</h1>
+            <h1 className='cinzel text-5xl font-semibold'>Ahmed <br /> Hassan</h1>
 
             <nav className=''>
                 <ul className="flex flex-col text-center gap-8 text-[1rem] font-[600] md:flex-row">
